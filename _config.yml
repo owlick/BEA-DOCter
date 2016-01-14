@@ -40,14 +40,14 @@ navigation:
 - text: Getting Started
   url: getting_started
   internal: true
-- text: DOCter Repo
+- text: BEA-DOCter Repo
   url: https://github.com/pj-bea/DOCter
   internal: false
 
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
-- name: DOCter
+- name: BEA-DOCter
   description: Jekyll template for docs
   url: https://github.com/pj-bea/DOCter
 
