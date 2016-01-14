@@ -40,16 +40,16 @@ navigation:
 - text: Getting Started
   url: getting_started
   internal: true
-#- text: DOCter Repo
-#  url: https://github.com/pj-bea/DOCter
-#  internal: false
+- text: DOCter Repo
+  url: https://github.com/pj-bea/DOCter
+  internal: false
 
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
-#- name: DOCter
-#  description: Jekyll template for docs
-#  url: https://github.com/pj-bea/DOCter
+- name: DOCter
+  description: Jekyll template for docs
+  url: https://github.com/pj-bea/DOCter
 
 # Style Variables
 brand_color: "#00267F"
