@@ -37,6 +37,9 @@ navigation:
 - text: Example Page
   url: example_page
   internal: true
+- text: Getting Started
+  url: getting_started
+  internal: true
 - text: DOCter Repo
   url: https://github.com/pj-bea/DOCter
   internal: false
