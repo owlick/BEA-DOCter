@@ -9,7 +9,7 @@ collections:
     permalink: /:path/
 
 # Title
-name: DOCter
+name: BEA-DOCter
 subtitle: A Jekyll template for project documentation
 
 # When using this template with a project page set the baseurl to '/project-name'
@@ -38,7 +38,7 @@ navigation:
   url: example_page
   internal: true
 - text: DOCter Repo
-  url: https://github.com/cfpb/DOCter
+  url: https://github.com/pj-bea/DOCter
   internal: false
 
 # Repo list
@@ -46,7 +46,7 @@ navigation:
 repos:
 - name: DOCter
   description: Jekyll template for docs
-  url: https://github.com/cfpb/DOCter
+  url: https://github.com/pj-bea/DOCter
 
 # Style Variables
 brand_color: "#00267F"
