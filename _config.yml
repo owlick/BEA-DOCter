@@ -53,3 +53,5 @@ repos:
 
 # Style Variables
 brand_color: "#00267F"
+
+theme: jekyll-theme-cayman
